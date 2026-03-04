@@ -18,6 +18,10 @@ Each exercise is organized into its own directory or controller prefix (e.g. `ex
 | Day03         | NONE            | Python 3.12.7     | Internet  Library in Python      |
 | Day04         | Django 6.0.2    | Python 3.12.7     |                                  |
 | Day05         | Django 6.0.2    | Python 3.12.7     |                                  |
+| Day06         | Django 6.0.2    | Python 3.12.7     |                                  |
+| Day07         | Django 6.0.2    | Python 3.12.7     |                                  |
+| Day08         | Django 6.0.2    | Python 3.12.7     |                                  |
+
 
 ---
 
