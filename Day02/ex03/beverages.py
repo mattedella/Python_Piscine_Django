@@ -33,16 +33,3 @@ class Cappuccino(Coffee):
 
 		def description(self):
 				return "Un po’ di Italia nella sua tazza!"
-	
-
-if __name__ == "__main__":
-	hot_beverage = HotBeverage()
-	print(hot_beverage)
-	coffee = Coffee()
-	print(coffee)
-	tea = Tea()
-	print(tea)
-	chocolate = Chocolate()
-	print(chocolate)
-	cappuccino = Cappuccino()
-	print(cappuccino)
